@@ -5,6 +5,4 @@ Kill List
 *Unformatted code
 *Repeated code blocks
 *Bad variable names
-*Huge blocks of code
-*Something really bad 
-*aijshdgl ausdk
+*Dont check code
