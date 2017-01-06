@@ -7,4 +7,4 @@ Kill List
 *Bad variable names
 *Huge blocks of code
 *Something really bad 
-
+*aijshdgl ausdk
